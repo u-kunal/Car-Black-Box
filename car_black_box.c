@@ -1,8 +1,5 @@
 /*
  * File:   car_black_box.c
- * Author: Bimala Prasad Padhi
- * Date : 08-02-2025
- * Project : Car Black Box 
  */
 
 
