@@ -1,6 +1,4 @@
 /*
- * Name: Bimala Prasad Padhi
- * Date of Submission: 11-02-25
  * Description: Project on Car Black Box
  * 
  * By considering todays busy life, every one wants to reach the destination as soon as possible 
